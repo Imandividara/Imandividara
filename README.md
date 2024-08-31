@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imandividara&label=Profile%20views&color=0e75b6&style=flat" alt="imandividara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imandividara" alt="imandividara" /></a> </p>
-
 - 🌱 I’m currently learning **Scala, Web Development , C++, C, Python**
 
 - 💬 Ask me about **anything**
