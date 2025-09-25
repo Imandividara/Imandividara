@@ -10,7 +10,7 @@ I enjoy working with modern technologies and contributing to open-source project
 
 Currently, I am focusing on:  
 - 🚀 Full-stack development using *React, Node.js, Spring Boot, HTML, CSS, PHP*  
-- 📱 Cross-platform mobile app development with *Flutter*
+- 🎮 Cross-platform game development with *Unity*
 
 I love engaging with tech communities and working on projects that make a real-world impact 🌟.
 
@@ -53,6 +53,7 @@ I love engaging with tech communities and working on projects that make a real-w
   <a href="https://fb.com/imandi muthugala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imandi muthugala" height="30" width="40" /></a>
   <a href="https://instagram.com/imandi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imandi2002" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/imandi-muthugala-995a29261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imandi-muthugala-995a29261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/imandividaramut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imandividaramut1" height="30" width="40" /></a>
 
 </p>
 
