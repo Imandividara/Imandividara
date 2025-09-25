@@ -14,7 +14,7 @@ Currently, I am focusing on:
 
 I love engaging with tech communities and working on projects that make a real-world impact 🌟.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213945678-12345678-abc0-4def-9012-abcdef123456.gif"/>
 
 - 📚 My school *Sujatha Vidyalaya*
 
