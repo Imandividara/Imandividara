@@ -14,7 +14,7 @@ Currently, I am focusing on:
 
 I love engaging with tech communities and working on projects that make a real-world impact 🌟.
 
-<img align="right" alt="Woman Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Woman Coding" width="400" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://iconscout.com/lottie-animation/female-web-developer-animation_6031664)" />
 
 
 
