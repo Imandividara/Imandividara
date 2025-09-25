@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Imandi+Vidara+Muthugala;From+Matara,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing )](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imandividara&label=Profile%20views&color=0e75b6&style=flat" alt="imandividara" /> </p>
 
 ### Hello! 👋 My name is *Imandi Vidara Muthugala*  
 I am from *Matara, Sri Lanka* 🌍 and currently an *Undergraduate at University of Colombo School of Computing (UCSC)* 🎓.
@@ -14,7 +14,7 @@ Currently, I am focusing on:
 
 I love engaging with tech communities and working on projects that make a real-world impact 🌟.
 
-<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/213945678-12345678-abc0-4def-9012-abcdef123456.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 - 📚 My school *Sujatha Vidyalaya*
 
