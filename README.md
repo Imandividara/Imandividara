@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Imandi+Vidara+Muthugala;From+Matara,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing )](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachith45&label=Profile%20views&color=0e75b6&style=flat" alt="Sachith-AB" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imandividara&label=Profile%20views&color=0e75b6&style=flat" alt="imandividara" /> </p>
 
 ### Hello! 👋 My name is *Imandi Vidara Muthugala*  
 I am from *Matara, Sri Lanka* 🌍 and currently an *Undergraduate at University of Colombo School of Computing (UCSC)* 🎓.
@@ -48,34 +48,13 @@ I love engaging with tech communities and working on projects that make a real-w
 
 ## 🌐 Social Media
 <p align="left">
-  <a href="https://www.facebook.com/sachith.abeywardhana.3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sachithavintha/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <a href="https://fb.com/imandi muthugala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imandi muthugala" height="30" width="40" /></a>
+  <a href="https://instagram.com/imandi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imandi2002" height="30" width="40" /></a>
 </p>
 
 <br/>
 
-## Github Activity ✔
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachith-AB&theme=monokai)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachith-AB&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachith-AB&theme=monokai)
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=Sachith-AB&theme=soft-green)](https://git.io/streak-stats)
-
-
-## 🏆 GitHub Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachith-AB&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imandividara&" alt="imandividara" /></p>
 
 
 
