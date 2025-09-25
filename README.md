@@ -54,6 +54,10 @@ I love engaging with tech communities and working on projects that make a real-w
 
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imandividara&show_icons=true&locale=en&layout=compact" alt="imandividara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imandividara&show_icons=true&locale=en" alt="imandividara" /></p>
+
 
 
 
