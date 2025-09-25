@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Imandi+Vidara+Muthugala;From+Matara,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing )](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imandividara&label=Profile%20views&color=0e75b6&style=flat" alt="imandividara" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 ### Hello! 👋 My name is *Imandi Vidara Muthugala*  
 I am from *Matara, Sri Lanka* 🌍 and currently an *Undergraduate at University of Colombo School of Computing (UCSC)* 🎓.
